@@ -2,7 +2,7 @@
     "Document": {
         "BaseScenario": {
             "Constraint": {
-                "Center": 127382.06280240831,
+                "Center": 68503.45453587123,
                 "Components": [
                 ],
                 "DefaultDuration": 220167.52569981653,
@@ -48,7 +48,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 1353.38944958795,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 10,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -86,7 +86,7 @@
                                     }
                                 ],
                                 "GuiDuration": 9904.835940758412,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 7998.718844317187,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -240,7 +240,7 @@
                                     }
                                 ],
                                 "GuiDuration": 7286.245158399602,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 6010.453219196312,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -445,7 +445,7 @@
                                     }
                                 ],
                                 "GuiDuration": 7598.170327683459,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 5019.517032139433,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -541,7 +541,7 @@
                                     }
                                 ],
                                 "GuiDuration": 5957.1494539956475,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 1057.0808834453055,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -669,7 +669,7 @@
                                     }
                                 ],
                                 "GuiDuration": 5407.241101074101,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 1014.3357101103829,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -765,7 +765,7 @@
                                     }
                                 ],
                                 "GuiDuration": 7042.7797731201945,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 5045.9440208382,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -861,7 +861,7 @@
                                     }
                                 ],
                                 "GuiDuration": 11773.615108635953,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 1925.7831014708208,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -973,7 +973,7 @@
                                     }
                                 ],
                                 "GuiDuration": 7979.660985444916,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 6573.092122073169,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1069,7 +1069,7 @@
                                     }
                                 ],
                                 "GuiDuration": 11773.615108635953,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 1613.085885107721,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1168,7 +1168,7 @@
                                     }
                                 ],
                                 "GuiDuration": 21902.029181587517,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 8110.895432460515,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1331,7 +1331,7 @@
                                     }
                                 ],
                                 "GuiDuration": 4546.963290148269,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 4241.230296262453,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1529,7 +1529,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 2437.7409770342274,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 1795.3231474338463,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1564,7 +1564,7 @@
                                     }
                                 ],
                                 "GuiDuration": 6747.554428049339,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 730.9157083140744,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1660,7 +1660,7 @@
                                     }
                                 ],
                                 "GuiDuration": 5407.241101074101,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 565.8350718950387,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1756,7 +1756,7 @@
                                     }
                                 ],
                                 "GuiDuration": 5407.241101074101,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 577.8741159779311,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1852,7 +1852,7 @@
                                     }
                                 ],
                                 "GuiDuration": 3357.319933321971,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 589.9131600607943,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1948,7 +1948,7 @@
                                     }
                                 ],
                                 "GuiDuration": 11773.615108635953,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 577.8741159779311,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -2044,7 +2044,7 @@
                                     }
                                 ],
                                 "GuiDuration": 5407.241101074101,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 662.9961573186156,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -2140,7 +2140,7 @@
                                     }
                                 ],
                                 "GuiDuration": 3265.338565285752,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 633.1106086063373,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -2242,7 +2242,7 @@
                                     }
                                 ],
                                 "GuiDuration": 11076.5292029981,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 2771.9380345356185,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -2433,7 +2433,7 @@
                                     }
                                 ],
                                 "GuiDuration": 7992.738776777914,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 6315.812161205962,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -2529,7 +2529,7 @@
                                     }
                                 ],
                                 "GuiDuration": 3565.728554143993,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 628.465314277797,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -2625,7 +2625,7 @@
                                     }
                                 ],
                                 "GuiDuration": 3505.2924769550987,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 677.1990794922749,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -2721,7 +2721,7 @@
                                     }
                                 ],
                                 "GuiDuration": 1611.8798422812617,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 553.3086221217236,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -2826,7 +2826,7 @@
                                     }
                                 ],
                                 "GuiDuration": 8668.49802818887,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 8276.410625164266,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -3077,7 +3077,7 @@
                                     }
                                 ],
                                 "GuiDuration": 5407.241101074101,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 1148.9803520546411,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -3173,7 +3173,7 @@
                                     }
                                 ],
                                 "GuiDuration": 5407.241101074101,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 1122.259878751007,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -3269,7 +3269,7 @@
                                     }
                                 ],
                                 "GuiDuration": 3357.319933321971,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 1140.2935980173934,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -3365,7 +3365,7 @@
                                     }
                                 ],
                                 "GuiDuration": 11773.615108635953,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 1170.042074447556,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -3461,7 +3461,7 @@
                                     }
                                 ],
                                 "GuiDuration": 5407.241101074101,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 1248.8006558587658,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -3557,7 +3557,7 @@
                                     }
                                 ],
                                 "GuiDuration": 3265.338565285752,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 1148.980352054583,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -3653,7 +3653,7 @@
                                     }
                                 ],
                                 "GuiDuration": 3565.728554143993,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 935.3981356504373,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -3744,7 +3744,7 @@
                                     }
                                 ],
                                 "GuiDuration": 3505.2924769550987,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 962.1445399848308,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -3840,7 +3840,7 @@
                                     }
                                 ],
                                 "GuiDuration": 1727.1018866289946,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 998.4009920086246,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -3936,7 +3936,7 @@
                                     }
                                 ],
                                 "GuiDuration": 6450.359974889054,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 3868.3439376274764,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -4047,7 +4047,7 @@
                                     }
                                 ],
                                 "GuiDuration": 7954.4975365967275,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 3296.305939133148,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -4478,7 +4478,7 @@
                                     }
                                 ],
                                 "GuiDuration": 4867.109686137629,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 3625.900901577552,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -4571,7 +4571,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 1818.4395723595155,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 1768.2320246807212,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -4606,7 +4606,7 @@
                                     }
                                 ],
                                 "GuiDuration": 3851.9660321807405,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 3553.6871196772845,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -4702,7 +4702,7 @@
                                     }
                                 ],
                                 "GuiDuration": 1265.857155387188,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 1047.978155683726,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -4814,7 +4814,7 @@
                                     }
                                 ],
                                 "GuiDuration": 3395.319433613526,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 2638.59267512949,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -4910,7 +4910,7 @@
                                     }
                                 ],
                                 "GuiDuration": 4564.934425304811,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 2725.5108139897347,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -5003,7 +5003,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 2458.257098212844,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 1366.3639279719937,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -5035,7 +5035,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 3484.215912577309,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 496.2074048587092,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -5076,7 +5076,7 @@
                                     }
                                 ],
                                 "GuiDuration": 18793.809638007202,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 5333.791037522678,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -5294,7 +5294,7 @@
                                     }
                                 ],
                                 "GuiDuration": 4357.447964935725,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 3689.241267056437,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -5694,7 +5694,7 @@
                                     }
                                 ],
                                 "GuiDuration": 5864.908968000654,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 4935.2115401410265,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -5909,7 +5909,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 975.9179439596788,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 783.6494638302247,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -5947,7 +5947,7 @@
                                     }
                                 ],
                                 "GuiDuration": 2271.454011872889,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 2067.204237530619,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -6101,7 +6101,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 4828.195081667954,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 4389.268256061783,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -6133,7 +6133,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 7412.199968011274,
-                                "HeightPercentage": 0.056,
+                                "HeightPercentage": 0.0560000017285347,
                                 "MaxDuration": 6010.905984396704,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -33926,6 +33926,43 @@
                                                             "Following": [
                                                             ],
                                                             "Name": "Leds",
+                                                            "Previous": [
+                                                            ],
+                                                            "Priorities": [
+                                                                1,
+                                                                2,
+                                                                0
+                                                            ],
+                                                            "Unit": "none"
+                                                        },
+                                                        {
+                                                            "Accessors": [
+                                                            ],
+                                                            "Children": [
+                                                                {
+                                                                    "Accessors": [
+                                                                    ],
+                                                                    "Children": [
+                                                                    ],
+                                                                    "Following": [
+                                                                    ],
+                                                                    "Name": "Speed",
+                                                                    "Previous": [
+                                                                    ],
+                                                                    "Priorities": [
+                                                                        1,
+                                                                        2,
+                                                                        0
+                                                                    ],
+                                                                    "Unit": "none",
+                                                                    "User": {
+                                                                        "Int": 80
+                                                                    }
+                                                                }
+                                                            ],
+                                                            "Following": [
+                                                            ],
+                                                            "Name": "Min_Max_Servo_1",
                                                             "Previous": [
                                                             ],
                                                             "Priorities": [
@@ -79132,7 +79169,7 @@
                 "SmallViewShown": false,
                 "StartDate": 0,
                 "StartState": 0,
-                "Zoom": 16.166262174301455,
+                "Zoom": 106.2893010641912,
                 "id": 0
             },
             "EndEvent": {
@@ -79662,6 +79699,36 @@
                                                 },
                                                 "Int": 1,
                                                 "Name": "Expression_type",
+                                                "RepetitionFilter": false,
+                                                "Unit": "none",
+                                                "ioType": "<->"
+                                            },
+                                            "Children": [
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "AddressSettings": {
+                                        "ClipMode": "Free",
+                                        "Domain": {
+                                        },
+                                        "Extended": {
+                                        },
+                                        "Name": "Min_Max_Servo_1",
+                                        "RepetitionFilter": false,
+                                        "Unit": "none"
+                                    },
+                                    "Children": [
+                                        {
+                                            "AddressSettings": {
+                                                "ClipMode": "Free",
+                                                "Domain": {
+                                                },
+                                                "Extended": {
+                                                },
+                                                "Int": 218,
+                                                "Name": "Speed",
                                                 "RepetitionFilter": false,
                                                 "Unit": "none",
                                                 "ioType": "<->"
