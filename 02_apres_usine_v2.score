@@ -2,7 +2,7 @@
     "Document": {
         "BaseScenario": {
             "Constraint": {
-                "Center": 39682.84722277412,
+                "Center": 37741.63771644319,
                 "Components": [
                 ],
                 "DefaultDuration": 66754.05291225448,
@@ -47,7 +47,7 @@
                                     }
                                 ],
                                 "GuiDuration": 4288.21052592637,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 4054.095363982313,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -207,7 +207,7 @@
                                     }
                                 ],
                                 "GuiDuration": 4120.581341036449,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 4031.4736613961504,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -356,13 +356,13 @@
                                 "Center": 0,
                                 "Components": [
                                 ],
-                                "DefaultDuration": 2697.428438993753,
+                                "DefaultDuration": 2931.217866478866,
                                 "EndState": 30,
                                 "FullViewRack": [
                                 ],
-                                "GuiDuration": 2791.0210719015013,
-                                "HeightPercentage": 0.034,
-                                "MaxDuration": 2697.428438993753,
+                                "GuiDuration": 3224.339653126753,
+                                "HeightPercentage": 0.029333333333333333,
+                                "MaxDuration": 2931.217866478866,
                                 "MaxInf": false,
                                 "Metadata": {
                                     "Color": "Transparent1",
@@ -370,7 +370,7 @@
                                     "Label": "",
                                     "ScriptingName": "eden26rule84"
                                 },
-                                "MinDuration": 2697.428438993753,
+                                "MinDuration": 2931.217866478866,
                                 "MinNull": false,
                                 "ObjectName": "Scenario::IntervalModel",
                                 "Processes": [
@@ -388,16 +388,16 @@
                                 "Center": 0,
                                 "Components": [
                                 ],
-                                "DefaultDuration": 1358.1533645350864,
+                                "DefaultDuration": 1207.7724852093816,
                                 "EndState": 33,
                                 "FullViewRack": [
                                     {
                                         "Process": 1
                                     }
                                 ],
-                                "GuiDuration": 1416.1340648039366,
-                                "HeightPercentage": 0.034,
-                                "MaxDuration": 1358.1533645350864,
+                                "GuiDuration": 1580.3052136035449,
+                                "HeightPercentage": 0.029333333333333333,
+                                "MaxDuration": 1207.7724852093816,
                                 "MaxInf": false,
                                 "Metadata": {
                                     "Color": "Transparent1",
@@ -405,7 +405,7 @@
                                     "Label": "",
                                     "ScriptingName": "barr32fern25"
                                 },
-                                "MinDuration": 1358.1533645350864,
+                                "MinDuration": 1207.7724852093816,
                                 "MinNull": false,
                                 "ObjectName": "Scenario::IntervalModel",
                                 "Processes": [
@@ -443,7 +443,7 @@
                                             ],
                                             "id": 45345
                                         },
-                                        "Duration": 1358.1533645350864,
+                                        "Duration": 1207.7724852093816,
                                         "End": {
                                             "Float": 1
                                         },
@@ -475,7 +475,7 @@
                                     }
                                 ],
                                 "SmallViewShown": true,
-                                "StartDate": 40941.6328269345,
+                                "StartDate": 40944.89765964837,
                                 "StartState": 32,
                                 "Zoom": -1,
                                 "id": 29
@@ -489,13 +489,10 @@
                                 "FullViewRack": [
                                     {
                                         "Process": 1
-                                    },
-                                    {
-                                        "Process": 2
                                     }
                                 ],
                                 "GuiDuration": 1031.4022140221405,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 916.2035293795052,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -556,70 +553,20 @@
                                         "Tween": false,
                                         "id": 1,
                                         "uuid": "d2a67bd8-5d3f-404e-b6e9-e350cf2a833f"
-                                    },
-                                    {
-                                        "Address": {
-                                            "Accessors": [
-                                            ],
-                                            "Unit": "none",
-                                            "address": {
-                                                "Device": "OSCdevice",
-                                                "Path": "group/Leds/Brightness"
-                                            }
-                                        },
-                                        "Components": [
-                                        ],
-                                        "Curve": {
-                                            "ObjectName": "CurveModel",
-                                            "Segments": [
-                                                {
-                                                    "End": [
-                                                        1,
-                                                        0
-                                                    ],
-                                                    "Following": null,
-                                                    "ObjectName": "CurveSegmentModel",
-                                                    "Power": 11.05,
-                                                    "Previous": null,
-                                                    "Start": [
-                                                        0,
-                                                        1
-                                                    ],
-                                                    "id": 1,
-                                                    "uuid": "1e7cb83f-4e47-4b14-814d-2242a9c75991"
-                                                }
-                                            ],
-                                            "id": 45345
-                                        },
-                                        "Duration": 916.2035293795052,
-                                        "Height": 300,
-                                        "Max": 61,
-                                        "Metadata": {
-                                            "Color": "Base1",
-                                            "Comment": "",
-                                            "Label": "",
-                                            "ScriptingName": "Automation.2"
-                                        },
-                                        "Min": 20,
-                                        "ObjectName": "Automation",
-                                        "Tween": false,
-                                        "id": 2,
-                                        "uuid": "d2a67bd8-5d3f-404e-b6e9-e350cf2a833f"
                                     }
                                 ],
                                 "Rigidity": true,
                                 "SmallViewRack": [
                                     {
                                         "Height": 200,
-                                        "Process": 2,
+                                        "Process": 1,
                                         "Processes": [
-                                            1,
-                                            2
+                                            1
                                         ]
                                     }
                                 ],
                                 "SmallViewShown": true,
-                                "StartDate": 42299.78619146959,
+                                "StartDate": 42152.67014485775,
                                 "StartState": 33,
                                 "Zoom": -1,
                                 "id": 30
@@ -633,7 +580,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 1107.2444970915585,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 943.2456486893643,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -651,7 +598,7 @@
                                 "SmallViewRack": [
                                 ],
                                 "SmallViewShown": false,
-                                "StartDate": 43215.989720849095,
+                                "StartDate": 43068.87367423726,
                                 "StartState": 34,
                                 "Zoom": -1,
                                 "id": 31
@@ -665,7 +612,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 1289.8404842420969,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 1042.2953408017056,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -683,7 +630,7 @@
                                 "SmallViewRack": [
                                 ],
                                 "SmallViewShown": false,
-                                "StartDate": 44159.23536953846,
+                                "StartDate": 44012.11932292662,
                                 "StartState": 35,
                                 "Zoom": -1,
                                 "id": 32
@@ -697,7 +644,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 1257.9925710509347,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 866.5324651346018,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -715,7 +662,7 @@
                                 "SmallViewRack": [
                                 ],
                                 "SmallViewShown": false,
-                                "StartDate": 45201.530710340165,
+                                "StartDate": 45054.41466372833,
                                 "StartState": 36,
                                 "Zoom": -1,
                                 "id": 33
@@ -729,7 +676,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 1423.209966586435,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 1232.960015917808,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -747,7 +694,7 @@
                                 "SmallViewRack": [
                                 ],
                                 "SmallViewShown": false,
-                                "StartDate": 46068.06317547477,
+                                "StartDate": 45920.94712886293,
                                 "StartState": 37,
                                 "Zoom": -1,
                                 "id": 34
@@ -761,7 +708,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 1837.7418312606399,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 1703.5410423228168,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -779,7 +726,7 @@
                                 "SmallViewRack": [
                                 ],
                                 "SmallViewShown": false,
-                                "StartDate": 47301.023191392575,
+                                "StartDate": 47153.90714478074,
                                 "StartState": 38,
                                 "Zoom": -1,
                                 "id": 35
@@ -788,13 +735,13 @@
                                 "Center": 0,
                                 "Components": [
                                 ],
-                                "DefaultDuration": 2248.8421291132254,
+                                "DefaultDuration": 2265.049448978534,
                                 "EndState": 40,
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 2331.8888364924737,
-                                "HeightPercentage": 0.034,
-                                "MaxDuration": 2248.8421291132254,
+                                "HeightPercentage": 0.029333333333333333,
+                                "MaxDuration": 2265.049448978534,
                                 "MaxInf": false,
                                 "Metadata": {
                                     "Color": "Transparent1",
@@ -802,7 +749,7 @@
                                     "Label": "",
                                     "ScriptingName": "isle62hand79"
                                 },
-                                "MinDuration": 2248.8421291132254,
+                                "MinDuration": 2265.049448978534,
                                 "MinNull": false,
                                 "ObjectName": "Scenario::IntervalModel",
                                 "Processes": [
@@ -811,7 +758,7 @@
                                 "SmallViewRack": [
                                 ],
                                 "SmallViewShown": false,
-                                "StartDate": 49004.56423371539,
+                                "StartDate": 48857.44818710355,
                                 "StartState": 39,
                                 "Zoom": -1,
                                 "id": 36
@@ -831,7 +778,7 @@
                                     }
                                 ],
                                 "GuiDuration": 21773.769245031344,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 4596.996597302779,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -980,13 +927,16 @@
                                 "Center": 0,
                                 "Components": [
                                 ],
-                                "DefaultDuration": 3200.9093533510822,
+                                "DefaultDuration": 2970.3847585798358,
                                 "EndState": 41,
                                 "FullViewRack": [
+                                    {
+                                        "Process": 1
+                                    }
                                 ],
                                 "GuiDuration": 4498.013443503213,
-                                "HeightPercentage": 0.034,
-                                "MaxDuration": 3200.9093533510822,
+                                "HeightPercentage": 0.029333333333333333,
+                                "MaxDuration": 2970.3847585798358,
                                 "MaxInf": false,
                                 "Metadata": {
                                     "Color": "Transparent1",
@@ -994,16 +944,72 @@
                                     "Label": "",
                                     "ScriptingName": "mana96nigh92"
                                 },
-                                "MinDuration": 3200.9093533510822,
+                                "MinDuration": 2970.3847585798358,
                                 "MinNull": false,
                                 "ObjectName": "Scenario::IntervalModel",
                                 "Processes": [
+                                    {
+                                        "Address": {
+                                            "Accessors": [
+                                            ],
+                                            "Unit": "none",
+                                            "address": {
+                                                "Device": "OSCdevice",
+                                                "Path": "group/Leds/Brightness"
+                                            }
+                                        },
+                                        "Components": [
+                                        ],
+                                        "Curve": {
+                                            "ObjectName": "CurveModel",
+                                            "Segments": [
+                                                {
+                                                    "End": [
+                                                        1,
+                                                        0
+                                                    ],
+                                                    "Following": null,
+                                                    "ObjectName": "CurveSegmentModel",
+                                                    "Power": 11.05,
+                                                    "Previous": null,
+                                                    "Start": [
+                                                        0,
+                                                        1
+                                                    ],
+                                                    "id": 1,
+                                                    "uuid": "1e7cb83f-4e47-4b14-814d-2242a9c75991"
+                                                }
+                                            ],
+                                            "id": 45345
+                                        },
+                                        "Duration": 2970.3847585798358,
+                                        "Height": 300,
+                                        "Max": 61,
+                                        "Metadata": {
+                                            "Color": "Base1",
+                                            "Comment": "",
+                                            "Label": "",
+                                            "ScriptingName": "Automation.1"
+                                        },
+                                        "Min": 10,
+                                        "ObjectName": "Automation",
+                                        "Tween": false,
+                                        "id": 1,
+                                        "uuid": "d2a67bd8-5d3f-404e-b6e9-e350cf2a833f"
+                                    }
                                 ],
                                 "Rigidity": true,
                                 "SmallViewRack": [
+                                    {
+                                        "Height": 200,
+                                        "Process": 1,
+                                        "Processes": [
+                                            1
+                                        ]
+                                    }
                                 ],
-                                "SmallViewShown": false,
-                                "StartDate": 35669.97503170707,
+                                "SmallViewShown": true,
+                                "StartDate": 35903.764459192185,
                                 "StartState": 30,
                                 "Zoom": -1,
                                 "id": 38
@@ -1023,7 +1029,7 @@
                                     }
                                 ],
                                 "GuiDuration": 2277.8232860639737,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 2070.748441876349,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1163,7 +1169,7 @@
                                     }
                                 ],
                                 "SmallViewShown": true,
-                                "StartDate": 38870.884385058154,
+                                "StartDate": 38874.14921777202,
                                 "StartState": 41,
                                 "Zoom": -1,
                                 "id": 39
@@ -1183,7 +1189,7 @@
                                     }
                                 ],
                                 "GuiDuration": 4041.5692283480175,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 3768.362916874612,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1321,7 +1327,7 @@
                                     }
                                 ],
                                 "SmallViewShown": true,
-                                "StartDate": 51253.40636282862,
+                                "StartDate": 51122.49763608209,
                                 "StartState": 40,
                                 "Zoom": -1,
                                 "id": 40
@@ -1338,10 +1344,25 @@
                                     },
                                     {
                                         "Process": 2
+                                    },
+                                    {
+                                        "Process": 3
+                                    },
+                                    {
+                                        "Process": 4
+                                    },
+                                    {
+                                        "Process": 5
+                                    },
+                                    {
+                                        "Process": 6
+                                    },
+                                    {
+                                        "Process": 7
                                     }
                                 ],
                                 "GuiDuration": 5009.554206111376,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 4645.441027024208,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1461,15 +1482,265 @@
                                         "Unit": "none",
                                         "id": 2,
                                         "uuid": "aa569e11-03a9-4023-92c2-b590e88fec90"
+                                    },
+                                    {
+                                        "Address": {
+                                            "Accessors": [
+                                            ],
+                                            "Unit": "none",
+                                            "address": {
+                                                "Device": "OSCdevice",
+                                                "Path": "group/Min_Max_Servo_2/Temp"
+                                            }
+                                        },
+                                        "Components": [
+                                        ],
+                                        "Curve": {
+                                            "ObjectName": "CurveModel",
+                                            "Segments": [
+                                                {
+                                                    "End": [
+                                                        1,
+                                                        0
+                                                    ],
+                                                    "Following": null,
+                                                    "ObjectName": "CurveSegmentModel",
+                                                    "Power": 11.05,
+                                                    "Previous": null,
+                                                    "Start": [
+                                                        0,
+                                                        1
+                                                    ],
+                                                    "id": 1,
+                                                    "uuid": "1e7cb83f-4e47-4b14-814d-2242a9c75991"
+                                                }
+                                            ],
+                                            "id": 45345
+                                        },
+                                        "Duration": 4645.441027024208,
+                                        "Height": 300,
+                                        "Max": 48,
+                                        "Metadata": {
+                                            "Color": "Base1",
+                                            "Comment": "",
+                                            "Label": "",
+                                            "ScriptingName": "Automation.3"
+                                        },
+                                        "Min": 43,
+                                        "ObjectName": "Automation",
+                                        "Tween": false,
+                                        "id": 3,
+                                        "uuid": "d2a67bd8-5d3f-404e-b6e9-e350cf2a833f"
+                                    },
+                                    {
+                                        "Address": {
+                                            "Accessors": [
+                                            ],
+                                            "Unit": "none",
+                                            "address": {
+                                                "Device": "OSCdevice",
+                                                "Path": "group/Min_Max_Servo_3/Temp"
+                                            }
+                                        },
+                                        "Components": [
+                                        ],
+                                        "Curve": {
+                                            "ObjectName": "CurveModel",
+                                            "Segments": [
+                                                {
+                                                    "End": [
+                                                        1,
+                                                        0
+                                                    ],
+                                                    "Following": null,
+                                                    "ObjectName": "CurveSegmentModel",
+                                                    "Power": 11.05,
+                                                    "Previous": null,
+                                                    "Start": [
+                                                        0,
+                                                        1
+                                                    ],
+                                                    "id": 1,
+                                                    "uuid": "1e7cb83f-4e47-4b14-814d-2242a9c75991"
+                                                }
+                                            ],
+                                            "id": 45345
+                                        },
+                                        "Duration": 4645.441027024208,
+                                        "Height": 300,
+                                        "Max": 47,
+                                        "Metadata": {
+                                            "Color": "Base1",
+                                            "Comment": "",
+                                            "Label": "",
+                                            "ScriptingName": "Automation.4"
+                                        },
+                                        "Min": 46,
+                                        "ObjectName": "Automation",
+                                        "Tween": false,
+                                        "id": 4,
+                                        "uuid": "d2a67bd8-5d3f-404e-b6e9-e350cf2a833f"
+                                    },
+                                    {
+                                        "Address": {
+                                            "Accessors": [
+                                            ],
+                                            "Unit": "none",
+                                            "address": {
+                                                "Device": "OSCdevice",
+                                                "Path": "group/Servo_2/angle"
+                                            }
+                                        },
+                                        "Components": [
+                                        ],
+                                        "Curve": {
+                                            "ObjectName": "CurveModel",
+                                            "Segments": [
+                                                {
+                                                    "End": [
+                                                        1,
+                                                        0
+                                                    ],
+                                                    "Following": null,
+                                                    "ObjectName": "CurveSegmentModel",
+                                                    "Power": 11.05,
+                                                    "Previous": null,
+                                                    "Start": [
+                                                        0,
+                                                        1
+                                                    ],
+                                                    "id": 1,
+                                                    "uuid": "1e7cb83f-4e47-4b14-814d-2242a9c75991"
+                                                }
+                                            ],
+                                            "id": 45345
+                                        },
+                                        "Duration": 4645.441027024208,
+                                        "Height": 300,
+                                        "Max": 0.3999997675418854,
+                                        "Metadata": {
+                                            "Color": "Base1",
+                                            "Comment": "",
+                                            "Label": "",
+                                            "ScriptingName": "Automation.5"
+                                        },
+                                        "Min": 0,
+                                        "ObjectName": "Automation",
+                                        "Tween": false,
+                                        "id": 5,
+                                        "uuid": "d2a67bd8-5d3f-404e-b6e9-e350cf2a833f"
+                                    },
+                                    {
+                                        "Address": {
+                                            "Accessors": [
+                                            ],
+                                            "Unit": "none",
+                                            "address": {
+                                                "Device": "OSCdevice",
+                                                "Path": "group/Servo_3/angle"
+                                            }
+                                        },
+                                        "Components": [
+                                        ],
+                                        "Curve": {
+                                            "ObjectName": "CurveModel",
+                                            "Segments": [
+                                                {
+                                                    "End": [
+                                                        1,
+                                                        0
+                                                    ],
+                                                    "Following": null,
+                                                    "ObjectName": "CurveSegmentModel",
+                                                    "Power": 11.05,
+                                                    "Previous": null,
+                                                    "Start": [
+                                                        0,
+                                                        1
+                                                    ],
+                                                    "id": 1,
+                                                    "uuid": "1e7cb83f-4e47-4b14-814d-2242a9c75991"
+                                                }
+                                            ],
+                                            "id": 45345
+                                        },
+                                        "Duration": 4645.441027024208,
+                                        "Height": 300,
+                                        "Max": 0.3999997675418854,
+                                        "Metadata": {
+                                            "Color": "Base1",
+                                            "Comment": "",
+                                            "Label": "",
+                                            "ScriptingName": "Automation.6"
+                                        },
+                                        "Min": 0,
+                                        "ObjectName": "Automation",
+                                        "Tween": false,
+                                        "id": 6,
+                                        "uuid": "d2a67bd8-5d3f-404e-b6e9-e350cf2a833f"
+                                    },
+                                    {
+                                        "Address": {
+                                            "Accessors": [
+                                            ],
+                                            "Unit": "none",
+                                            "address": {
+                                                "Device": "OSCdevice",
+                                                "Path": "group/Leds/Brightness"
+                                            }
+                                        },
+                                        "Components": [
+                                        ],
+                                        "Curve": {
+                                            "ObjectName": "CurveModel",
+                                            "Segments": [
+                                                {
+                                                    "End": [
+                                                        1,
+                                                        0
+                                                    ],
+                                                    "Following": null,
+                                                    "ObjectName": "CurveSegmentModel",
+                                                    "Power": 11.05,
+                                                    "Previous": null,
+                                                    "Start": [
+                                                        0,
+                                                        1
+                                                    ],
+                                                    "id": 1,
+                                                    "uuid": "1e7cb83f-4e47-4b14-814d-2242a9c75991"
+                                                }
+                                            ],
+                                            "id": 45345
+                                        },
+                                        "Duration": 4645.441027024208,
+                                        "Height": 300,
+                                        "Max": 100,
+                                        "Metadata": {
+                                            "Color": "Base1",
+                                            "Comment": "",
+                                            "Label": "",
+                                            "ScriptingName": "Automation.7"
+                                        },
+                                        "Min": 0,
+                                        "ObjectName": "Automation",
+                                        "Tween": false,
+                                        "id": 7,
+                                        "uuid": "d2a67bd8-5d3f-404e-b6e9-e350cf2a833f"
                                     }
                                 ],
                                 "Rigidity": true,
                                 "SmallViewRack": [
                                     {
                                         "Height": 200,
-                                        "Process": 1,
+                                        "Process": 7,
                                         "Processes": [
-                                            1
+                                            1,
+                                            3,
+                                            4,
+                                            5,
+                                            6,
+                                            7
                                         ]
                                     },
                                     {
@@ -1481,7 +1752,7 @@
                                     }
                                 ],
                                 "SmallViewShown": true,
-                                "StartDate": 55021.76927970323,
+                                "StartDate": 54890.8605529567,
                                 "StartState": 42,
                                 "Zoom": -1,
                                 "id": 41
@@ -1504,7 +1775,7 @@
                                     }
                                 ],
                                 "GuiDuration": 5861.014842874614,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 4405.653330755532,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1698,7 +1969,7 @@
                                     }
                                 ],
                                 "GuiDuration": 2595.2782882483475,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 2475.9654599258342,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1842,7 +2113,7 @@
                                     }
                                 ],
                                 "GuiDuration": 3093.1462164420145,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 2888.6263699134743,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -1980,7 +2251,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 714.7042394051624,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 564.5204871605605,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -2018,7 +2289,7 @@
                                     }
                                 ],
                                 "GuiDuration": 2063.117556912549,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 1955.8411028428181,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -2156,7 +2427,7 @@
                                 "FullViewRack": [
                                 ],
                                 "GuiDuration": 5590.633331983115,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 4689.58144291361,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -2194,7 +2465,7 @@
                                     }
                                 ],
                                 "GuiDuration": 4015.5574126900074,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "MaxDuration": 3309.7927765202476,
                                 "MaxInf": false,
                                 "Metadata": {
@@ -2337,8 +2608,8 @@
                                 },
                                 "Date": 0,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2392,8 +2663,8 @@
                                 },
                                 "Date": 12290.60675059822,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2420,8 +2691,8 @@
                                 },
                                 "Date": 20289.980970032077,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2448,8 +2719,8 @@
                                 },
                                 "Date": 28375.54999541054,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2476,8 +2747,8 @@
                                 },
                                 "Date": 24344.07633401439,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2502,10 +2773,10 @@
                                     "RootNode": {
                                     }
                                 },
-                                "Date": 35669.97503170707,
+                                "Date": 35903.764459192185,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2532,8 +2803,8 @@
                                 },
                                 "Date": 32972.54659271332,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2558,10 +2829,10 @@
                                     "RootNode": {
                                     }
                                 },
-                                "Date": 40941.6328269345,
+                                "Date": 40944.89765964837,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2586,10 +2857,10 @@
                                     "RootNode": {
                                     }
                                 },
-                                "Date": 42299.78619146959,
+                                "Date": 42152.67014485775,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2614,10 +2885,10 @@
                                     "RootNode": {
                                     }
                                 },
-                                "Date": 43215.989720849095,
+                                "Date": 43068.87367423726,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2642,10 +2913,10 @@
                                     "RootNode": {
                                     }
                                 },
-                                "Date": 44159.23536953846,
+                                "Date": 44012.11932292662,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2697,10 +2968,10 @@
                                     "RootNode": {
                                     }
                                 },
-                                "Date": 45201.530710340165,
+                                "Date": 45054.41466372833,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2725,10 +2996,10 @@
                                     "RootNode": {
                                     }
                                 },
-                                "Date": 46068.06317547477,
+                                "Date": 45920.94712886293,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2753,10 +3024,10 @@
                                     "RootNode": {
                                     }
                                 },
-                                "Date": 47301.023191392575,
+                                "Date": 47153.90714478074,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2808,10 +3079,10 @@
                                     "RootNode": {
                                     }
                                 },
-                                "Date": 49004.56423371539,
+                                "Date": 48857.44818710355,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2836,10 +3107,10 @@
                                     "RootNode": {
                                     }
                                 },
-                                "Date": 51253.40636282862,
+                                "Date": 51122.49763608209,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2864,10 +3135,10 @@
                                     "RootNode": {
                                     }
                                 },
-                                "Date": 38870.884385058154,
+                                "Date": 38874.14921777202,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2892,10 +3163,10 @@
                                     "RootNode": {
                                     }
                                 },
-                                "Date": 55021.76927970323,
+                                "Date": 54890.8605529567,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2920,10 +3191,10 @@
                                     "RootNode": {
                                     }
                                 },
-                                "Date": 59667.21030672744,
+                                "Date": 59536.30157998091,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -2977,8 +3248,8 @@
                                 },
                                 "Date": 7884.953419842687,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -3005,8 +3276,8 @@
                                 },
                                 "Date": 2520.3615900033788,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -3033,8 +3304,8 @@
                                 },
                                 "Date": 4996.327049929213,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -3061,8 +3332,8 @@
                                 },
                                 "Date": 564.5204871605605,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -3089,8 +3360,8 @@
                                 },
                                 "Date": 16980.18819351183,
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Emphasis4",
@@ -3123,7 +3394,7 @@
                                 "Components": [
                                 ],
                                 "Event": 36,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -3514,7 +3785,7 @@
                                 "Components": [
                                 ],
                                 "Event": 37,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -3996,7 +4267,7 @@
                                 "Components": [
                                 ],
                                 "Event": 39,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -4498,7 +4769,7 @@
                                 "Components": [
                                 ],
                                 "Event": 38,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -5000,7 +5271,7 @@
                                 "Components": [
                                 ],
                                 "Event": 40,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -5502,7 +5773,7 @@
                                 "Components": [
                                 ],
                                 "Event": 41,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -6004,7 +6275,7 @@
                                 "Components": [
                                 ],
                                 "Event": 42,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -6384,26 +6655,6 @@
                                                                     ],
                                                                     "Following": [
                                                                     ],
-                                                                    "Name": "Brightness",
-                                                                    "Previous": [
-                                                                    ],
-                                                                    "Priorities": [
-                                                                        1,
-                                                                        2,
-                                                                        0
-                                                                    ],
-                                                                    "Unit": "none",
-                                                                    "User": {
-                                                                        "Int": 61
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "Accessors": [
-                                                                    ],
-                                                                    "Children": [
-                                                                    ],
-                                                                    "Following": [
-                                                                    ],
                                                                     "Name": "Expression_On_Off",
                                                                     "Previous": [
                                                                     ],
@@ -6506,7 +6757,7 @@
                                 "Components": [
                                 ],
                                 "Event": 43,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -6886,26 +7137,6 @@
                                                                     ],
                                                                     "Following": [
                                                                     ],
-                                                                    "Name": "Brightness",
-                                                                    "Previous": [
-                                                                    ],
-                                                                    "Priorities": [
-                                                                        1,
-                                                                        2,
-                                                                        0
-                                                                    ],
-                                                                    "Unit": "none",
-                                                                    "User": {
-                                                                        "Int": 61
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "Accessors": [
-                                                                    ],
-                                                                    "Children": [
-                                                                    ],
-                                                                    "Following": [
-                                                                    ],
                                                                     "Name": "Expression_On_Off",
                                                                     "Previous": [
                                                                     ],
@@ -7008,7 +7239,7 @@
                                 "Components": [
                                 ],
                                 "Event": 44,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -7388,26 +7619,6 @@
                                                                     ],
                                                                     "Following": [
                                                                     ],
-                                                                    "Name": "Brightness",
-                                                                    "Previous": [
-                                                                    ],
-                                                                    "Priorities": [
-                                                                        1,
-                                                                        2,
-                                                                        0
-                                                                    ],
-                                                                    "Unit": "none",
-                                                                    "User": {
-                                                                        "Int": 20
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "Accessors": [
-                                                                    ],
-                                                                    "Children": [
-                                                                    ],
-                                                                    "Following": [
-                                                                    ],
                                                                     "Name": "Expression_On_Off",
                                                                     "Previous": [
                                                                     ],
@@ -7510,7 +7721,7 @@
                                 "Components": [
                                 ],
                                 "Event": 45,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -7890,26 +8101,6 @@
                                                                     ],
                                                                     "Following": [
                                                                     ],
-                                                                    "Name": "Brightness",
-                                                                    "Previous": [
-                                                                    ],
-                                                                    "Priorities": [
-                                                                        1,
-                                                                        2,
-                                                                        0
-                                                                    ],
-                                                                    "Unit": "none",
-                                                                    "User": {
-                                                                        "Int": 20
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "Accessors": [
-                                                                    ],
-                                                                    "Children": [
-                                                                    ],
-                                                                    "Following": [
-                                                                    ],
                                                                     "Name": "Expression_On_Off",
                                                                     "Previous": [
                                                                     ],
@@ -8012,7 +8203,7 @@
                                 "Components": [
                                 ],
                                 "Event": 47,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -8392,26 +8583,6 @@
                                                                     ],
                                                                     "Following": [
                                                                     ],
-                                                                    "Name": "Brightness",
-                                                                    "Previous": [
-                                                                    ],
-                                                                    "Priorities": [
-                                                                        1,
-                                                                        2,
-                                                                        0
-                                                                    ],
-                                                                    "Unit": "none",
-                                                                    "User": {
-                                                                        "Int": 20
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "Accessors": [
-                                                                    ],
-                                                                    "Children": [
-                                                                    ],
-                                                                    "Following": [
-                                                                    ],
                                                                     "Name": "Expression_On_Off",
                                                                     "Previous": [
                                                                     ],
@@ -8514,7 +8685,7 @@
                                 "Components": [
                                 ],
                                 "Event": 48,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -8894,26 +9065,6 @@
                                                                     ],
                                                                     "Following": [
                                                                     ],
-                                                                    "Name": "Brightness",
-                                                                    "Previous": [
-                                                                    ],
-                                                                    "Priorities": [
-                                                                        1,
-                                                                        2,
-                                                                        0
-                                                                    ],
-                                                                    "Unit": "none",
-                                                                    "User": {
-                                                                        "Int": 20
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "Accessors": [
-                                                                    ],
-                                                                    "Children": [
-                                                                    ],
-                                                                    "Following": [
-                                                                    ],
                                                                     "Name": "Expression_On_Off",
                                                                     "Previous": [
                                                                     ],
@@ -9016,7 +9167,7 @@
                                 "Components": [
                                 ],
                                 "Event": 49,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -9396,26 +9547,6 @@
                                                                     ],
                                                                     "Following": [
                                                                     ],
-                                                                    "Name": "Brightness",
-                                                                    "Previous": [
-                                                                    ],
-                                                                    "Priorities": [
-                                                                        1,
-                                                                        2,
-                                                                        0
-                                                                    ],
-                                                                    "Unit": "none",
-                                                                    "User": {
-                                                                        "Int": 20
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "Accessors": [
-                                                                    ],
-                                                                    "Children": [
-                                                                    ],
-                                                                    "Following": [
-                                                                    ],
                                                                     "Name": "Expression_On_Off",
                                                                     "Previous": [
                                                                     ],
@@ -9518,7 +9649,7 @@
                                 "Components": [
                                 ],
                                 "Event": 51,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -9898,26 +10029,6 @@
                                                                     ],
                                                                     "Following": [
                                                                     ],
-                                                                    "Name": "Brightness",
-                                                                    "Previous": [
-                                                                    ],
-                                                                    "Priorities": [
-                                                                        1,
-                                                                        2,
-                                                                        0
-                                                                    ],
-                                                                    "Unit": "none",
-                                                                    "User": {
-                                                                        "Int": 20
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "Accessors": [
-                                                                    ],
-                                                                    "Children": [
-                                                                    ],
-                                                                    "Following": [
-                                                                    ],
                                                                     "Name": "Expression_On_Off",
                                                                     "Previous": [
                                                                     ],
@@ -10020,7 +10131,7 @@
                                 "Components": [
                                 ],
                                 "Event": 52,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -10400,26 +10511,6 @@
                                                                     ],
                                                                     "Following": [
                                                                     ],
-                                                                    "Name": "Brightness",
-                                                                    "Previous": [
-                                                                    ],
-                                                                    "Priorities": [
-                                                                        1,
-                                                                        2,
-                                                                        0
-                                                                    ],
-                                                                    "Unit": "none",
-                                                                    "User": {
-                                                                        "Int": 61
-                                                                    }
-                                                                },
-                                                                {
-                                                                    "Accessors": [
-                                                                    ],
-                                                                    "Children": [
-                                                                    ],
-                                                                    "Following": [
-                                                                    ],
                                                                     "Name": "Expression_On_Off",
                                                                     "Previous": [
                                                                     ],
@@ -10451,6 +10542,26 @@
                                                                     "Unit": "none",
                                                                     "User": {
                                                                         "Int": 1
+                                                                    }
+                                                                },
+                                                                {
+                                                                    "Accessors": [
+                                                                    ],
+                                                                    "Children": [
+                                                                    ],
+                                                                    "Following": [
+                                                                    ],
+                                                                    "Name": "Brightness",
+                                                                    "Previous": [
+                                                                    ],
+                                                                    "Priorities": [
+                                                                        1,
+                                                                        2,
+                                                                        0
+                                                                    ],
+                                                                    "Unit": "none",
+                                                                    "User": {
+                                                                        "Int": 100
                                                                     }
                                                                 }
                                                             ],
@@ -10522,7 +10633,7 @@
                                 "Components": [
                                 ],
                                 "Event": 53,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -10912,7 +11023,7 @@
                                                                     ],
                                                                     "Unit": "none",
                                                                     "User": {
-                                                                        "Int": 61
+                                                                        "Int": 10
                                                                     }
                                                                 },
                                                                 {
@@ -11024,7 +11135,7 @@
                                 "Components": [
                                 ],
                                 "Event": 54,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -11414,7 +11525,7 @@
                                                                     ],
                                                                     "Unit": "none",
                                                                     "User": {
-                                                                        "Int": 0
+                                                                        "Int": 100
                                                                     }
                                                                 },
                                                                 {
@@ -11526,7 +11637,7 @@
                                 "Components": [
                                 ],
                                 "Event": 55,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -12105,7 +12216,7 @@
                                 "Components": [
                                 ],
                                 "Event": 57,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -12496,7 +12607,7 @@
                                 "Components": [
                                 ],
                                 "Event": 58,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -12867,7 +12978,7 @@
                                 "Components": [
                                 ],
                                 "Event": 59,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -13332,7 +13443,7 @@
                                 "Components": [
                                 ],
                                 "Event": 0,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -13367,7 +13478,7 @@
                                 "Components": [
                                 ],
                                 "Event": 60,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -13832,7 +13943,7 @@
                                 "Components": [
                                 ],
                                 "Event": 61,
-                                "HeightPercentage": 0.034,
+                                "HeightPercentage": 0.029333333333333333,
                                 "Messages": {
                                     "Accessors": [
                                     ],
@@ -14229,8 +14340,8 @@
                                     0
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14374,8 +14485,8 @@
                                     36
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14403,8 +14514,8 @@
                                     37
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14432,8 +14543,8 @@
                                     38
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14461,8 +14572,8 @@
                                     39
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14485,13 +14596,13 @@
                             {
                                 "Components": [
                                 ],
-                                "Date": 35669.97503170707,
+                                "Date": 35903.764459192185,
                                 "Events": [
                                     40
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14519,8 +14630,8 @@
                                     41
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14543,13 +14654,13 @@
                             {
                                 "Components": [
                                 ],
-                                "Date": 40941.6328269345,
+                                "Date": 40944.89765964837,
                                 "Events": [
                                     42
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14572,13 +14683,13 @@
                             {
                                 "Components": [
                                 ],
-                                "Date": 42299.78619146959,
+                                "Date": 42152.67014485775,
                                 "Events": [
                                     43
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14601,13 +14712,13 @@
                             {
                                 "Components": [
                                 ],
-                                "Date": 43215.989720849095,
+                                "Date": 43068.87367423726,
                                 "Events": [
                                     44
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14630,13 +14741,13 @@
                             {
                                 "Components": [
                                 ],
-                                "Date": 44159.23536953846,
+                                "Date": 44012.11932292662,
                                 "Events": [
                                     45
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14659,13 +14770,13 @@
                             {
                                 "Components": [
                                 ],
-                                "Date": 45201.530710340165,
+                                "Date": 45054.41466372833,
                                 "Events": [
                                     47
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14688,13 +14799,13 @@
                             {
                                 "Components": [
                                 ],
-                                "Date": 46068.06317547477,
+                                "Date": 45920.94712886293,
                                 "Events": [
                                     48
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14717,13 +14828,13 @@
                             {
                                 "Components": [
                                 ],
-                                "Date": 47301.023191392575,
+                                "Date": 47153.90714478074,
                                 "Events": [
                                     49
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14746,13 +14857,13 @@
                             {
                                 "Components": [
                                 ],
-                                "Date": 49004.56423371539,
+                                "Date": 48857.44818710355,
                                 "Events": [
                                     51
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14775,13 +14886,13 @@
                             {
                                 "Components": [
                                 ],
-                                "Date": 51253.40636282862,
+                                "Date": 51122.49763608209,
                                 "Events": [
                                     52
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14804,13 +14915,13 @@
                             {
                                 "Components": [
                                 ],
-                                "Date": 38870.884385058154,
+                                "Date": 38874.14921777202,
                                 "Events": [
                                     53
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14833,13 +14944,13 @@
                             {
                                 "Components": [
                                 ],
-                                "Date": 55021.76927970323,
+                                "Date": 54890.8605529567,
                                 "Events": [
                                     54
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14862,13 +14973,13 @@
                             {
                                 "Components": [
                                 ],
-                                "Date": 59667.21030672744,
+                                "Date": 59536.30157998091,
                                 "Events": [
                                     55
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14896,8 +15007,8 @@
                                     57
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14925,8 +15036,8 @@
                                     58
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14954,8 +15065,8 @@
                                     59
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -14983,8 +15094,8 @@
                                     60
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -15012,8 +15123,8 @@
                                     61
                                 ],
                                 "Extent": [
-                                    0.034,
-                                    0.034
+                                    0.029333333333333333,
+                                    0.029333333333333333
                                 ],
                                 "Metadata": {
                                     "Color": "Gray",
@@ -15044,7 +15155,7 @@
                 "SmallViewShown": false,
                 "StartDate": 0,
                 "StartState": 0,
-                "Zoom": 68.59610583020591,
+                "Zoom": 58.559562011548785,
                 "id": 0
             },
             "EndEvent": {
